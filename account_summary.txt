@@ -1,0 +1,7 @@
+
+--- Account Summary ---
+Account No: 1001
+Name: ameer
+Balance: $90.00
+Last Transaction: 2025-04-11 23:43:41
+
